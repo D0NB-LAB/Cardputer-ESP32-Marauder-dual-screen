@@ -1,5 +1,5 @@
 # Cardputer ADV Dual Screen — Marauder v1.18
-![image alt](https://github.com/D0NB-LAB/CardputerESP32Marauderdualscreen/blob/2674c9e233f427bfa68432005553a7728e81ec23/pictures/IMG_1823.HEIC)
+![image alt](https://github.com/D0NB-LAB/CardputerESP32Marauderdualscreen/blob/2674c9e233f427bfa68432005553a7728e81ec23/pictures/IMG_1823.HEIC) 
 ![image alt](https://github.com/D0NB-LAB/CardputerESP32Marauderdualscreen/blob/2674c9e233f427bfa68432005553a7728e81ec23/pictures/IMG_1825.HEIC)
 ## 🚀 Release v1.0
 
