@@ -1,4 +1,46 @@
-<!---[![License: MIT](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/justcallmekoko/ESP32Marauder/blob/master/LICENSE)--->
+# Cardputer ADV Dual Screen — Marauder v1.18
+
+## 🚀 Release v1.0
+
+This release provides the **Marauder v1.18 firmware build for the Cardputer ADV Dual Screen**.
+
+The firmware is provided as a precompiled `.bin` file, allowing users to install it using a microSD card and the **BruceMorelli (BMorelli) Launcher firmware**.
+
+### 📦 What's Included
+- Precompiled Marauder v1.18 firmware (`.bin`)
+- Firmware build for the Cardputer ADV Dual Screen
+- MicroSD-based installation workflow through BMorelli Launcher
+
+### 💾 Installation Instructions
+
+1. Download the `.bin` firmware file from the **Assets** section below.
+2. Insert your microSD card into your computer.
+3. Copy the downloaded `.bin` file onto the microSD card, following the file layout expected by BMorelli Launcher.
+4. Safely eject the microSD card and insert it into your Cardputer ADV Dual Screen.
+5. Boot into **BMorelli Launcher**.
+6. Select the firmware flashing or installation option and choose the Marauder v1.18 `.bin` file.
+7. Follow the on-screen instructions and wait for the flashing process to complete.
+8. Restart your device and verify that Marauder loads correctly.
+
+### ⚠️ Important Notes
+- Make sure you download the correct firmware binary for your device.
+- Do not power off the device during flashing.
+- Keep a backup of any firmware you may want to restore.
+- Menu names and installation steps may vary depending on your BMorelli Launcher version.
+
+### 🛠️ Compatibility
+**Device:** Cardputer ADV Dual Screen  
+**Firmware:** Marauder v1.18  
+**Installation method:** microSD card + BMorelli Launcher
+
+### 🙌 Credits
+Thanks to the developers and contributors behind the Marauder project, the Cardputer community, and BMorelli Launcher.
+
+---
+
+**Enjoy Marauder v1.18 on your Cardputer ADV Dual Screen!**
+
+If you encounter issues, please include your device model, launcher version, and any error messages when reporting a bug.<!---[![License: MIT](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/justcallmekoko/ESP32Marauder/blob/master/LICENSE)--->
 <!---[![Gitter](https://badges.gitter.im/justcallmekoko/ESP32Marauder.png)](https://gitter.im/justcallmekoko/ESP32Marauder)--->
 <!---[![Build Status](https://travis-ci.com/justcallmekoko/ESP32Marauder.svg?branch=master)](https://travis-ci.com/justcallmekoko/ESP32Marauder)--->
 <!---Shields/Badges https://shields.io/--->
