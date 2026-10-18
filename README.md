@@ -1,5 +1,7 @@
 # Cardputer ADV Dual Screen — Marauder v1.18
+https://github.com/D0NB-LAB/CardputerESP32Marauderdualscreen/blob/2674c9e233f427bfa68432005553a7728e81ec23/pictures/IMG_1823.HEIC
 
+https://github.com/D0NB-LAB/CardputerESP32Marauderdualscreen/blob/2674c9e233f427bfa68432005553a7728e81ec23/pictures/IMG_1825.HEIC
 ## 🚀 Release v1.0
 
 This release provides the **Marauder v1.18 firmware build for the Cardputer ADV Dual Screen**.
